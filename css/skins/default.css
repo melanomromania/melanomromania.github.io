@@ -1,13 +1,13 @@
 a {
-	color: #96f896;
+	color: #6ed06e;
 }
 
 a:hover {
-	color: #0099e6;
+	color: #8cee8c;
 }
 
 a:focus {
-	color: #0099e6;
+	color: #8cee8c;
 }
 
 a:active {
@@ -174,15 +174,15 @@ ul.nav-pills > li.active > a:focus {
 }
 
 html ul.nav-pills-primary a {
-	color: #96f896;
+	color: #6ed06e;
 }
 
 html ul.nav-pills-primary a:hover {
-	color: #0099e6;
+	color: #8cee8c;
 }
 
 html ul.nav-pills-primary a:focus {
-	color: #0099e6;
+	color: #8cee8c;
 }
 
 html ul.nav-pills-primary a:active {
